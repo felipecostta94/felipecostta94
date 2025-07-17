@@ -1,10 +1,26 @@
-Olá! Me chamo Felipe Costa, sou desenvolvedor front-end com mais de 3 anos de experiência, apaixonado por tecnologia e morador de Curitiba/PR.
+## 👋 Olá! Eu sou o Felipe Costa
 
-Sou graduado em Desenvolvimento de Jogos Digitais, onde adquiri uma base sólida em lógica de programação, C#, e metodologias ágeis como Scrum e Kanban.
+💻 Desenvolvedor Frontend 
+🎯 Foco atual: React, Next.js, Jquery, Typescript
+🎮 Curioso por simulação, games e projetos visuais interativos
 
-Atualmente, foco no desenvolvimento de interfaces modernas e escaláveis utilizando React.js e TypeScript. Tenho trabalhado na migração de projetos de outras tecnologias para o ecossistema React, sempre buscando melhorias em performance, legibilidade e experiência do usuário.
 
-Sou entusiasta do aprendizado contínuo e estou sempre explorando novas ferramentas, boas práticas e tendências do Front-End.
+### 🚀 Tecnologias & Ferramentas
+HTML
+CSS
+JQUERY
+REACT
+NODE.js
+FIGMA
 
-Tecnologias principais:
-React, TypeScript, JavaScript, HTML, CSS, jQuery, C#
+
+### 📚 Atualmente estudando
+
+- 🔸 Melhores práticas com ReactJS, performance e acessibilidade
+- 🔸 Organização de projetos no Git e GitHub
+
+  
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/felipe1994costa/)
+- Email: felipe_costa94@hotmail.com
