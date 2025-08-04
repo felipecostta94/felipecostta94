@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Frontend  
 🎯 Foco atual: React, Next.js, Jquery, Typescript  
-🎮 Curioso por simulação, games e projetos visuais interativos  
+🎮 Curioso por IA, games e projetos visuais interativos  
 
 ### 🚀 Tecnologias & Ferramentas  
 HTML • CSS • JQUERY • REACT • NODE.js • FIGMA  
